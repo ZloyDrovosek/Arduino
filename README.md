@@ -1,3 +1,3 @@
 # Arduino UNO
-Сенсор на нажатия по клавишам и моргание диода
-Подключения: длинная нога диода(+) и в GND(земля), короткая нога(-) к резистору и в 13пин.
+Keypress sensor and LED blinking
+Connections: long leg of the LED (+) to GND, short leg (-) to the resistor and to pin 13.
