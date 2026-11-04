@@ -1,3 +1,3 @@
-# Arduino UNO
+# Arduino UNO Keystroke sensor
 Keypress sensor and LED blinking
 Connections: long leg of the LED (+) to GND, short leg (-) to the resistor and to pin 13.
