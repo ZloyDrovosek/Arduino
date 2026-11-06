@@ -33,3 +33,5 @@ except Exception as e:
     print("1. Вы закрыли 'Монитор порта' в Arduino IDE? (Он должен быть закрыт).")
     print(f"2. Плата точно подключена к порту {SERIAL_PORT}?")
     input("\nНажмите Enter для выхода...")
+
+
